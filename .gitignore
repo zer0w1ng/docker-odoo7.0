@@ -1,0 +1,10 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+.tmp
+.sass-cache
+*.pyc
+*.swp
+*.swo
+*.log
+*.DS_Store
+
